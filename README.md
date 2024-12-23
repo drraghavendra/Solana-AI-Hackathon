@@ -1,21 +1,21 @@
-Project Title : Agent Accelerator 
+# Project Title : Agent Accelerator 
 
 
-Project Overview:
+# Project Overview:
 
 This project aims to democratize access to AI-powered automation by creating a decentralized platform that enables users to build, deploy, and manage AI agents on the Solana blockchain without requiring traditional coding expertise. Our platform provides an intuitive interface to define the logic, configuration, and behavior of AI agents, which are then executed through a combination of on-chain smart contracts and off-chain infrastructure. The system leverages the speed and efficiency of Solana, along with the power of Rust for smart contract development and the ARC utility token for platform access and governance, all brought together by the core engine Rig.
 
-Vision:
+# Vision:
 
 To be the leading platform for creating and deploying AI-powered decentralized applications (dApps) on Solana, making AI automation accessible to everyone, regardless of their coding background. We envision a future where anyone can build intelligent agents that interact with on-chain data, automate tasks, and create new value within the Solana ecosystem.
 
-Core Components:
+# Core Components:
 
 Rig (Core Engine):
 
 Description: Rig is the heart of the platform—a custom framework and set of tools built using Rust, that orchestrates and manages the entire lifecycle of an AI agent. It abstracts the complexities of Solana programming and provides an intuitive experience.
 
-Functionality:
+# Functionality:
 
 Agent Definition: Allows users to define AI agents using a no-code visual interface.
 
