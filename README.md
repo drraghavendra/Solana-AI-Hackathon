@@ -11,7 +11,7 @@ To be the leading platform for creating and deploying AI-powered decentralized a
 
 # Core Components:
 
-Rig (Core Engine):
+# Rig (Core Engine):
 
 Description: Rig is the heart of the platform—a custom framework and set of tools built using Rust, that orchestrates and manages the entire lifecycle of an AI agent. It abstracts the complexities of Solana programming and provides an intuitive experience.
 
@@ -27,7 +27,7 @@ Monitoring & Management: Provides tools to track agent activity, modify configur
 
 Implementation: Primarily implemented in Rust for performance and safety and a UI for ease of use.
 
-Rust (Smart Contracts):
+# Rust (Smart Contracts):
 
 Description: We will use Rust to write Solana smart contracts which are responsible for the on-chain storage of configurations and control logic for AI Agents.
 
@@ -43,11 +43,11 @@ Access Control: Handles user permissions and agent ownership.
 
 Implementation: Using the Solana Rust SDK, focusing on efficient and secure code.
 
-ARC Token (Utility & Governance):
+# ARC Token (Utility & Governance):
 
 Description: The ARC token is the utility and governance token for the platform.
 
-Functionality:
+# Functionality:
 
 Platform Access: Used to pay for accessing the platform, deploying agents, and utilizing advanced features.
 
@@ -61,7 +61,7 @@ Implementation: ARC token will be an SPL (Solana Program Library) token.
 
 Detailed Functionality:
 
-No-Code Agent Builder:
+# No-Code Agent Builder:
 
 Visual Interface: Drag-and-drop components to define agents without writing code.
 
@@ -71,7 +71,7 @@ Configurable Parameters: Ability to set agent-specific parameters for each modul
 
 Agent Configuration Storage: Agent configurations are stored on-chain using Solana smart contracts.
 
-AI Agent Execution Engine:
+# AI Agent Execution Engine:
 
 On-Chain Logic: Smart contracts on Solana perform core agent functionalities such as state management, opportunity analysis, and interactions with other Solana protocols.
 
@@ -81,7 +81,7 @@ Market Data Integration: Real time data from a variety of sources using CPI to a
 
 Automated Execution: Automated actions based on predefined logic and on-chain triggers such as changes to the state.
 
-Marketplace for AI Logic:
+# Marketplace for AI Logic:
 
 Community Driven: Users can share and monetize their AI logic modules, which can then be used by other builders.
 
@@ -95,7 +95,7 @@ Community Proposals: Token holders can propose new features and updates.
 
 Transparency: All platform upgrades and decisions are transparent and on-chain.
 
-Target Users:
+# Target Users:
 
 Non-Coders: Individuals with domain expertise but no coding skills.
 
@@ -107,7 +107,7 @@ Traders: Traders who want to automate the process of trading with customized str
 
 Data Analysts: Analysts who are looking to automate data collection and analysis in the Solana ecosystem.
 
-Technology Stack:
+# Technology Stack:
 
 Blockchain: Solana
 
@@ -121,7 +121,7 @@ Data Processing & AI: Python or similar
 
 Development Roadmap (Example):
 
-Phase 1: Core Infrastructure:
+# Phase 1: Core Infrastructure:
 
 Develop the Solana smart contracts for agent state management and core interaction points.
 
@@ -131,7 +131,7 @@ Implement ARC token functionality.
 
 Create a basic web UI for agent configuration.
 
-Phase 2: DeFi Trading Integration:
+# Phase 2: DeFi Trading Integration:
 
 Add functionality for integrating with Solana DEXs.
 
@@ -139,7 +139,7 @@ Implement basic trading strategy templates (e.g., SMA crossover, RSI).
 
 Develop off-chain infrastructure for data processing.
 
-Phase 3: Market Analysis and Real Estate Integration:
+# Phase 3: Market Analysis and Real Estate Integration:
 
 Implement market analysis agent templates.
 
@@ -147,19 +147,20 @@ Integrate real estate specific functions into the platform.
 
 Add more complex analytical tools for real estate data.
 
-Phase 4: Community Marketplace:
+# Phase 4: Community Marketplace:
 
 Launch the community-driven module marketplace.
 
 Implement mechanisms for sharing, monetizing, and rating modules.
 
-Phase 5: Governance Implementation:
+ # Phase 5: Governance Implementation:
 
 Implement on-chain governance.
 
 Enable ARC token holders to vote on parameters and proposals.
 
-Expected Outcomes:
+# Results and Outcomes 
+
 
 A decentralized platform for building and managing AI agents on Solana with no code.
 
@@ -171,7 +172,7 @@ A governance mechanism that empowers community participation.
 
 More on-chain automation for various use cases in the Solana ecosystem.
 
-Conclusion:
+# Conclusion:
 
 "Build AI Agents with No Code on Solana" represents a significant opportunity to bring the power of AI to the masses. By combining the strengths of Solana, Rust, and the ARC token with an innovative no-code platform, this project can transform how we build and interact with decentralized applications.
 
