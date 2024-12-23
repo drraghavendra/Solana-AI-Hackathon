@@ -107,6 +107,12 @@ Traders: Traders who want to automate the process of trading with customized str
 
 Data Analysts: Analysts who are looking to automate data collection and analysis in the Solana ecosystem.
 
+# Wallet Integration of Glow & Phantom supporting Solana
+
+Seamless connectivity with Glow and Phantom wallets for user authentication and transaction signing.
+
+Allows users to easily interact with the platform using their existing Solana assets.
+
 # Technology Stack:
 
 Blockchain: Solana
